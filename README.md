@@ -1,2 +1,2 @@
 # COMP2017
-for system programming
+for system programming learning
