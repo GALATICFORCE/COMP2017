@@ -2,7 +2,11 @@
 #include <stdio.h>
 
 int substring(const char* line, const char* substr) {
-    //TODO
+    /*
+    不调库写法
+    for (int i = 0; line[i] != '\0'; i++)
+        for (int j = 0; substr[j] != '\0'; j++)
+    */
     for (int i = 0;i < strlen(line);i++){
         for (int j = 0; j< strlen(substr); j++){
             if(line[i+j] != substr[j]){
