@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/gky/COMP2017/Week_3/volume-of-a-sphere",
-      "program": "/home/gky/COMP2017/Week_3/volume-of-a-sphere/build/Debug/outDebug",
+      "cwd": "/home/gky/COMP2017/Week_3/hamsterdecode",
+      "program": "/home/gky/COMP2017/Week_3/hamsterdecode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
