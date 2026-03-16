@@ -23,7 +23,7 @@ void decode(const char* data, int length) {
 	}
 
 
-int main() {
+int main(void) {
 	//Some test statements
 	const char* hlo = "HELOWRD0122343526"; //HELLOWORLD
 	const char* dib = "Dibd aou0121314254313143674367"; //Dibidi ba didi dou dou
