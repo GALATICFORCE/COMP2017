@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/gky/COMP2017/Week_3",
-      "program": "/home/gky/COMP2017/Week_3/build/Debug/outDebug",
+      "cwd": "/home/gky/COMP2017/Week_4/saving-pokemon",
+      "program": "/home/gky/COMP2017/Week_4/saving-pokemon/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
